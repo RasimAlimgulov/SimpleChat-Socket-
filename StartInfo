@@ -1,0 +1,10 @@
+Инструкция по запуску:
+
+1 - Запускаем Server:
+    - port:     1234 || любые 4 цифры
+2 - Запускаем ClientGuiController
+    - address:  localhost || 0.0.0.0 || 127.0.0.1
+    - port:     Тот же
+3 - Запускаем BotClient
+    - address:  Тот же
+    - port:     Тот же
